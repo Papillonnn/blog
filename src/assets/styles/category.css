@@ -1,0 +1,9 @@
+.category{
+	padding: 10px;
+}
+.category .category-title {
+	display: block;
+	padding: 10px 0;
+	font-size: 20px;
+	margin-bottom: 10px;
+}

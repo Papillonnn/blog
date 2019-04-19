@@ -1,0 +1,19 @@
+.tags .tags-title {
+	display: block;
+	font-size: 24px;
+	padding:10px 0;
+}
+.tags-content {
+	display: block;
+	margin-top: 20px;
+}
+.tags-content a {
+	display: inline-block;
+	color: #555;
+	margin-right: 10px;
+	line-height: 24px;
+}
+.tags-content a:hover {
+	text-decoration: none;
+	color: lightblue;
+}
